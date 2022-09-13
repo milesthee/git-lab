@@ -51,4 +51,15 @@ Answer 8: commit 20c49fb465b178960e3f15ba145cec7d1e48b712 (HEAD -> master)
 
     	  Initial commit
 
-Answer 9: 
+Answer 9: On branch main
+	  Your branch is up to date with 'origin/main'.
+
+	  nothing to commit, working tree clean
+
+Answer 10: No they were not
+
+Answer 11: An error message is displayed stating that a push is not possibly because the repository contains information that I do not have locally.
+
+Answer 12: Yes, my local README.md now contains the updated information
+
+Answer 13: .  ..  .git  .gitignore  README.md
